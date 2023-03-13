@@ -1,0 +1,11 @@
+{
+  "name": "filmqu",
+  "version": "1.0.0",
+  "description": "Web Review Film",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelompok 5",
+  "license": "ISC"
+}
